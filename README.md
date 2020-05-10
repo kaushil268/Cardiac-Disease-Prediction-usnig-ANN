@@ -1,9 +1,9 @@
 # Cardiac-Disease-Prediction-usnig-ANN
 
 
-# DATASET DESCRIPTION
+## DATASET DESCRIPTION
 
-
+The dataset consistes of following columns :
 
 
 age - age in years
